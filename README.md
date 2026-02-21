@@ -1,14 +1,14 @@
 <h1 align="center">Weather Application Project</h1>
 
-<a href="https://github.com/Amr-Elshabrawy-Dev/AkiraStore" target="_blank">
+<a href="https://amrelshabrawydev.github.io/weather-app" target="_blank">
 <img width="100%" src="./public/website-img.png" alt="Weather App Website Home page">
 </a>
 
 ### 👁️ Project Preview
 
-- [Live Preview 👉 https://amr-elshabrawy-dev.github.io/weather-app](https://amr-elshabrawy-dev.github.io/weather-app)
+- [Live Preview 👉 https://amrelshabrawydev.github.io/weather-app](https://amrelshabrawydev.github.io/weather-app)
 
-- [Github Repo 👉 https://github.com/Amr-Elshabrawy-Dev/weather-app](https://github.com/Amr-Elshabrawy-Dev/weather-app)
+- [Github Repo 👉 https://github.com/AmrElshabrawyDev/weather-app](https://github.com/AmrElshabrawyDev/weather-app)
 
 - 🚩 For any reason <a target="_blank" href="mailto:amrelshabrawy.dev@gmail.com">contact me.</a>
 
@@ -103,9 +103,9 @@ This project is a weather application built using React. The application fetches
 
 ### 👋 Get In Touch
 
-- [🌐 My Website 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/Amr-Elshabrawy-Dev)
+- [🌐 My Website 👉 https://amrelshabrawydev.github.io](https://amrelshabrawydev.github.io)
 - [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amr-elshabrawy-dev)
-- [🌟 Github 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/Amr-Elshabrawy-Dev)
+- [🌟 Github 👉 https://github.com/AmrElshabrawyDev](https://github.com/AmrElshabrawyDev)
 - [📧 Gmail 👉 amrelshabrawy.dev@gmail.com](mailto:amrelshabrawy.dev@gmail.com)
 - [🐤 Twitter 👉 https://twitter.com/AmrElshbrawy217](https://twitter.com/AmrElshbrawy217)
 - [☎️ Whatsapp 👉 (+20) 120-254-6653](https://api.whatsapp.com/send/?phone=%2B2001202546653&text&type=phone_number&app_absent=0)
@@ -114,7 +114,7 @@ This project is a weather application built using React. The application fetches
 
    <div style="width: 100%;" align="center">
      <h3 style="font-size: 30px;">AMR ElSHABRAWY</h3>
-     <img src="./public/amr.svg" style="display: block ;width: 120px;margin: 0 auto;">
+     <img src="https://raw.githubusercontent.com/AmrElshabrawyDev/Amr-Elshabrawy-Dev/d2af4e72d144384618fa4acfb4b773495adacb07/assets/amr.svg" style="display: block ;width: 120px;margin: 0 auto;">
      <p> Created by AMR Elshabrawy</p>
    </div>
 
